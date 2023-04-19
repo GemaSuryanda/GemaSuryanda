@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu'alaikum</h1>
-<h3 align="center">I focus on web development such as frontend and backend</h3>
+<h3 align="center">focus on web development such as frontend and backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemasuryanda&label=Profile%20views&color=0e75b6&style=plastic" alt="gemasuryanda" /> </p>
 
