@@ -1,11 +1,17 @@
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
 <h1 align="center">Assalamu'alaikum</h1>
-<h3 align="center">focus on web development such as frontend and backend</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=لسَّلَامُ عَلَيْكُمْ+My Name Is+Gema Suryanda;&font=Fira%20Code&weight=700&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemasuryanda&label=Profile%20views&color=0e75b6&style=plastic" alt="gemasuryanda" /> </p>
 
-- 🔭 I’m currently working on Pondok Pesantren Tahfizhul Qur'an Ibnu Katsir [Profile Company of Pondok Pesantren Tahfizhul Qur'an Ibnu Katsir](ibnukatsir.ponpes.id)
+- 🔭 I’m currently working on Pondok Pesantren Tahfizhul Qur'an Ibnu Katsir
 
-- 🌱 I’m currently learning **codeigniter**
+- 🌱 I’m currently learning **codeigniter**, **javascript code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GemaSuryanda?tab=repositories](https://github.com/GemaSuryanda?tab=repositories)
 
@@ -29,5 +35,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemasuryanda&show_icons=true&locale=en&layout=compact" alt="gemasuryanda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gemasuryanda&show_icons=true&theme=dark&locale=en" alt="gemasuryanda" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemasuryanda&" alt="gemasuryanda" /></p>
+### ⚙️ My Projects 
+
+#### Full-Stack Projects :
+
+* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
+* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
+* [UIET Connect](https://github.com/getlost01/UietConnect)
+* [Meal Planner](https://github.com/getlost01/meal-planner-API)
+* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
+* [ABitShort](https://github.com/getlost01/linkshortner)
+* [File Share App](https://github.com/getlost01/dlink-share)
+
